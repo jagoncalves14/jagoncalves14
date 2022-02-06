@@ -1,6 +1,6 @@
 # Hey! I'm João Gonçalves <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p>Frontend Developer from <img src="https://img.icons8.com/color/48/000000/portugal-circular.png" width="13"/> <b>Guimarães, Portugal</b>. Currently living in <b>Porto</b>.</p>
+<p>Front End Developer from <img src="https://img.icons8.com/color/48/000000/portugal-circular.png" width="13"/> <b>Guimarães, Portugal</b>. Currently living in <b>Porto</b>.</p>
 
 ### Where to find me
 
